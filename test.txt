@@ -1,2 +1,6 @@
+<<<< HEAD
 this is my first line in git repository. You should agree with me.
 There are lots to go.
+=======
+Neeraj is trainer
+>>>>>>> BRANCH1
