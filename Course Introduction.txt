@@ -1,0 +1,60 @@
+Hello, welcome to Machine Learning for Absolute Beginners.
+I'm glad that you're joining me
+to start your journey into machine learning.
+My name is Adam Vincent.
+I'm a machine learning and artificial intelligence
+training architect.
+I'm excited to share the field that I'm passionate about
+with you, machine learning.
+It's right in my title.
+Throughout this course,
+I'll be introducing you to machine learning,
+but I also want to teach you a bit
+about how you learn in the process.
+I've created 3 sections in this course
+to give you a basic understanding of machine learning.
+In our first section,
+we're going to talk about what machine learning is.
+This section will answer 3 main questions
+about machine learning: what the machines learn,
+how do machines learn and why do machines learn.
+To answer these we'll look at modeling,
+the trial and error process, and making predictions.
+Once we have an idea of what machine learning is,
+we'll then look at what machine learning is not.
+When learning about a new thing,
+it's important to be able to discern
+how it's different from similar things.
+First, even though the 2 are related,
+we'll see how machine learning
+is not artificial intelligence.
+We'll start that by investigating
+what intelligence actually is.
+Continuing our theme of exploring related concepts,
+we'll look at the differences between machine learning
+and traditional programming.
+With those similarities explored,
+we can look at some of the pitfalls of machine learning
+by first exploring how machine learning is not good or evil.
+And finally, seeing how machine learning
+is not a silver bullet that will solve
+all of your problems.
+With a solid understanding of what machine learning
+can and cannot do, we'll spend our final section
+talking about how you can currently take advantage
+of machine learning.
+This will be a particularly fun section
+because we get to see new and interesting applications
+of this fantastic technology.
+We'll start with how machine learning
+affects our everyday lives
+and then look at how machine learning can be applied
+to caring for our health.
+Machine learning can also be used to care for our networks
+and protect our data.
+So we'll talk about applications in cybersecurity.
+Lastly, I'll show you some interesting business problems
+that machine learning can help you solve.
+I hope that you're ready to start learning
+about machine learning.
+Let's dive in.
