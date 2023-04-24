@@ -1,3 +1,0 @@
-check the file whether it is branch or master  
-
-it should be branch
