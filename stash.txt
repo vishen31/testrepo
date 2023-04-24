@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
-this is another code on demand. 
-we are good to commit this code as of now. 
-=======
+
 This is file to check the stashed file
 
 this is second line of code. 
 
 similarly this is third line of code
->>>>>>> Stashed changes
