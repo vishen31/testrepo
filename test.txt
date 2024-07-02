@@ -5,3 +5,4 @@ There are lots to go.
 Neeraj is trainer
 >>>>>>> BRANCH1
 "Add new line at the end of test.txt file" 
+"Add new line in test.txt" 
