@@ -1,0 +1,10 @@
+version: 0.0
+
+phases:
+  install:
+    commands:
+      - mv / /var/www/html  # Replace paths as needed
+
+  post_install:
+    commands:
+      - sudo systemctl restart httpd
